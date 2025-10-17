@@ -1,1 +1,1 @@
-This is the first line in dev
+Development notes for the project
